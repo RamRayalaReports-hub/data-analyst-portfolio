@@ -1,29 +1,20 @@
-# Data Analyst Portfolio
+#Sales Data Cleaning & Analysis Project
+Objective
 
-Hello, I'm Ram Kumar.
+Clean and analyze sales data using Microsoft Excel and create an interactive dashboard.
 
-I'm building my skills in:
-- Excel
-- SQL
-- Power BI
-- Python
-- Data Engineering
-
-This repository contains projects from my learning journey.
-
-## Projects
-
-### Excel
-Coming Soon
-
-### SQL
-Coming Soon
-
-### Power BI
-Coming Soon
-
-### Python
-Coming Soon
-
-### Data Engineering
-Coming Soon
+Skills Used
+Data Cleaning
+Excel Formulas
+Pivot Tables
+Data Visualization
+Dashboard Design
+Key Insights
+Total sales by category
+Regional sales performance
+Monthly sales trends
+Tools
+Microsoft Excel
+Files Included
+Excel Workbook
+Dashboard Screenshots
